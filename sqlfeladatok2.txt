@@ -1,0 +1,1 @@
+Hozzon létre egy tudosok nevű adattáblát: mezői: a tudós kódja tid egész, a neve: név maximum 70 karakterből álló szöveg.
