@@ -1,1 +1,3 @@
 Hozzon létre egy emberek nevű adatbázist utf-8 alapértelmezett kódolással, magyar rendezési sorrenddel!
+
+Hozzon létre egy allatok nevű adatbázist utf-8 alapértelmezett kódolással, magyar rendezési sorrenddel!
