@@ -1,0 +1,15 @@
+1. Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen konyvtar;
+2. Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen bolt;
+3. Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen konyvek;
+4. Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen kozlekedes;
+5. Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen tv;
+6. Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen színházak;
+7. Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen konyvtar;
+8. Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen utepites;
+9. Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen ruhak;
+10.Írjunk olyan SQL parancsot, amely létrehoz egy adatbázist, amelynek utf-8 az alapértelmezett kódolása, magyar rendezési sorrend legyen beállítva, és a neve legyen utazasok;
+
+
+
+
+
