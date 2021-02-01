@@ -1,0 +1,13 @@
+1.Hozzunk létre egy tudomány nevű adatbázist  
+(utf-8 kódolással, magyar rendezési sorrenddel)
+2. Hozzunk létre egy Nobeldíjak nevű táblát!
+Mezői: 
+id (maximum 5 karakterből álló szöveg)
+név (szöveg)
+mikor (egész szám, a Nobel-díj megkapásának éve)
+3. Adjuk meg, hogy melyik évben ki a névsorba rendezett lista névsorelsője!
+4. Rendezzük évszám szerint csökkenően a Nobeldíjak táblát!
+5.Adjuk meg, az 1930 előtti Nobel-díjasok nevét!
+6. Adjuk meg a H-val kezdődő Nobel díjasok nevét, de csak akkor, ha 1930 után szerezte a Nobel díját!
+7. Adjuk meg az első 6 Nobel-díjas nevét!
+
