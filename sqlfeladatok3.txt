@@ -10,4 +10,5 @@ mikor (egész szám, a Nobel-díj megkapásának éve)
 5.Adjuk meg, az 1930 előtti Nobel-díjasok nevét!
 6. Adjuk meg a H-val kezdődő Nobel díjasok nevét, de csak akkor, ha 1930 után szerezte a Nobel díját!
 7. Adjuk meg az első 6 Nobel-díjas nevét!
+8. Adjuk meg névsor szerint rendezve az 1945 utáni Nobel-díjasok nevét és a Nobel-díj idejét!
 
